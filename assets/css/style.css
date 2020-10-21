@@ -1,0 +1,21 @@
+.post-date{
+    background: #f4f4f4;
+    padding:4px;
+    margin:3px 0;
+    display:block;
+}
+ 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    
+    padding-top: 60px;
+  }
+
+
+
+
